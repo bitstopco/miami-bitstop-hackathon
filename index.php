@@ -36,7 +36,7 @@
 
         <div class="pagelogo">
           <div class="special-element center hidden-xs"><span></span></div>
-          <a href="#intro" class="scroll"><strong>MIAMI BITCOIN HACK</strong></a>
+          <a href="#intro" class="scroll"><strong>MIAMI BITCOIN HACKATHON</strong></a>
         </div>
         <div class="menuswitch">
           <a href="#" id="menuswitcher">
@@ -63,8 +63,8 @@
             <div class="col-md-10 col-md-offset-1 vertical-center">
               <div class="text-center margin-offset animated bounceInDown">
                   <div class="special-element center"><span></span></div>
-                  <h2>Fresh, Modern, Clean one page theme</h2>
-                  <h1>WELCOME</h1>
+                  <h2>Bitcoin will change the way we use money forever</h2>
+                  <h1>Do you want to create code that will empower people all over the world?</h1>
                   <p>
                     <a class="btn scroll" href="#textcontent">FIND OUT MORE</a>
                   </p>
@@ -82,20 +82,20 @@
             <div class="col-md-10 col-md-offset-2">
               <div class="content">
                 <div class="special-element"><span></span></div>
-                <h1>TEXT CONTENT</h1>
+                <h1>Why Bitcoin?</h1>
                 <div class="row">
                   <div class="col-md-3 col-sm-3 col-lg-2">
                     <span class="big-icon fa fa-desktop"></span>
                   </div>
                   <div class="col-md-9 col-sm-9 col-lg-10">
                     <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultric ies ictum purus sit amet facilisis. Donec ullamcorper metus eget tor tores adipiscing, in accumsan odio aliquet. Nulla hendrerit erat arcu, ut interdum ipsum ullamcorper vel. Donec dignissim ante nisi. Phasellus eu augue vitae libero pharetra mollis. 
+                    Bitcoin has changed the way we transfer value forever.  It is an open system that allows for innovation without permission.  The code is open sourse and avialable to anyone anywhere to run and review.  The technology is extremly powerful and allows coders like yourself to build some amazing things.  We really feel that Bitcoin can be a tool to empower people around the World. It can also make storing value and transfering it online extremly frictionless. The system doesnt care about the users creed,color,race or status anyone can use it.  Plus who likes banks?     
                     </p>
                   </div>
                 </div>
-                <h2>This is a smaller heading</h2>
+                <h2>Why Miami?</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultricies ictum purus sit amet facilisis et. Donec ullamcorper metus eget tortores adipiscing, in accumsan odio ali quet. Nulla hendrerit erat arcu, ut interdum ipsum ullamcorper vel. Donec dignissim ante nisi. 
+                  We chose Miami because its geographical location makes it a gateway to the rest of the World.  Bitcoin is the currency and network of the World.  Not only are there poeple in Miami that can greatly benfit from Bitcoin but poeple from all over the world constantly travel here for both business and pleasure.  
                 </p>
                 <a href="#" class="btn" data-toggle="modal" data-target="#modalText">READ MORE</a>
                 <!--
@@ -116,22 +116,22 @@
             <div class="col-md-10 col-md-offset-2">
               <div class="content">
                 <div class="special-element"><span></span></div>
-                <h1>GRID</h1>
+                <h1>Benifits of Bitcoin</h1>
 
                 <div class="row grid-row">
                   <div class="col-md-1 col-sm-1 col-xs-3">
                     <span class="small-icon fa fa-rocket"></span>
                   </div>
                   <div class="col-md-4 col-sm-5 col-xs-9">
-                    <h4>Lorem ipsum dolores</h4>
-                    <p>Lorem ipsum dolor sit amet, conseptur ctetur adipiscing elit. Integer ultric iesto ictumes purus sit amet fac ilisis.</p>
+                    <h4>Low transaction fees & High speed</h4>
+                    <p>Typically only a miners fee of .0001 (USD VALUE) can cover the cost of any size transaction.  Transactions are fast and settled permanetly!</p>
                   </div>
                   <div class="col-md-1 col-md-offset-1 col-sm-1 col-xs-3">
                     <span class="small-icon fa fa-heart"></span>
                   </div>
                   <div class="col-md-4 col-sm-5 col-xs-9">
-                    <h4>Lorem ipsum dolores</h4>
-                    <p>Lorem ipsum dolor sit amet, conseptur ctetur adipiscing elit. Integer ultric iesto ictumes purus sit amet fac ilisis.</p>
+                    <h4>Open Source</h4>
+                    <p>The protcol is open soursce so you know the rules.  The system is transparent </p>
                   </div>
                 </div>
 
@@ -140,15 +140,15 @@
                     <span class="small-icon fa fa-th-large"></span>
                   </div>
                   <div class="col-md-4 col-sm-5 col-xs-9">
-                    <h4>Lorem ipsum dolores</h4>
-                    <p>Lorem ipsum dolor sit amet, conseptur ctetur adipiscing elit. Integer ultric iesto ictumes purus sit amet fac ilisis.</p>
+                    <h4>Decentralized</h4>
+                    <p>Like Bittorrent it is run by people all over the world so there is no central point to shutdown</p>
                   </div>
                   <div class="col-md-1 col-md-offset-1 col-sm-1 col-xs-3">
                     <span class="small-icon fa fa-puzzle-piece"></span>
                   </div>
                   <div class="col-md-4 col-sm-5 col-xs-9">
-                    <h4>Lorem ipsum dolores</h4>
-                    <p>Lorem ipsum dolor sit amet, conseptur ctetur adipiscing elit. Integer ultric iesto ictumes purus sit amet fac ilisis.</p>
+                    <h4>For the poeple by the people</h4>
+                    <p></p>
                   </div>
                 </div>
 
@@ -201,7 +201,7 @@
             <div class="col-md-10 col-md-offset-2">
               <div class="content">
                 <div class="special-element"><span></span></div>
-                <h1>CAROUSEL</h1>
+                <h1>Companys accepting or working with Bitcoin</h1>
 
                 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
                   <!-- Indicators -->
@@ -276,53 +276,53 @@
                   </div>
 
                   <div class="gallery-items clearfix">
-                    <a class="col-xs-6 col-md-4 gallery-item web-design" href="#" data-toggle="modal" data-target="#modalImage" data-image-url="tmp/img-640x480-1.jpg">
+                    <a class="col-xs-6 col-md-4 gallery-item web-design" href="#" data-toggle="modal" data-target="#modalImage" data-image-url="assets/img/tmp/img-640x480-1.jpg">
                       <div class="image-info">
                         <h2>Lorem ipsum dolor</h2>
                         <h3>- web designer -</h3>
                         <span class="more fa fa-expand"></span>
                       </div>
-                      <img src="tmp/img-286x215-1.jpg" width="286" height="215" class="img-responsive" />
+                      <img src="assets/img/tmp/img-286x215-1.jpg" width="286" height="215" class="img-responsive" />
                     </a>
-                    <a class="col-xs-6 col-md-4 gallery-item web-design logo-design" href="#" data-toggle="modal" data-target="#modalImage" data-image-url="tmp/img-640x480-2.jpg">
+                    <a class="col-xs-6 col-md-4 gallery-item web-design logo-design" href="#" data-toggle="modal" data-target="#modalImage" data-image-url="assets/img/tmp/img-640x480-2.jpg">
                       <div class="image-info">
                         <h2>Lorem ipsum dolor</h2>
                         <h3>- web designer -</h3>
                         <span class="more fa fa-expand"></span>
                       </div>
-                      <img src="tmp/img-286x215-2.jpg" width="286" height="215" class="img-responsive" />
+                      <img src="assets/img/tmp/img-286x215-2.jpg" width="286" height="215" class="img-responsive" />
                     </a>
-                    <a class="col-xs-6 col-md-4 gallery-item logo-design" href="#" data-toggle="modal" data-target="#modalImage" data-image-url="tmp/img-640x480-3.jpg">
+                    <a class="col-xs-6 col-md-4 gallery-item logo-design" href="#" data-toggle="modal" data-target="#modalImage" data-image-url="assets/img/tmp/img-640x480-3.jpg">
                       <div class="image-info">
                         <h2>Lorem ipsum dolor</h2>
                         <h3>- web designer -</h3>
                         <span class="more fa fa-expand"></span>
                       </div>
-                      <img src="tmp/img-286x215-3.jpg" width="286" height="215" class="img-responsive" />
+                      <img src="assets/img/tmp/img-286x215-3.jpg" width="286" height="215" class="img-responsive" />
                     </a>
-                    <a class="col-xs-6 col-md-4 gallery-item web-design" href="#" data-toggle="modal" data-target="#modalImage" data-image-url="tmp/img-640x480-4.jpg">
+                    <a class="col-xs-6 col-md-4 gallery-item web-design" href="#" data-toggle="modal" data-target="#modalImage" data-image-url="assets/img/tmp/img-640x480-4.jpg">
                       <div class="image-info">
                         <h2>Lorem ipsum dolor</h2>
                         <h3>- web designer -</h3>
                         <span class="more fa fa-expand"></span>
                       </div>
-                      <img src="tmp/img-286x215-4.jpg" width="286" height="215" class="img-responsive" />
+                      <img src="assets/img/tmp/img-286x215-4.jpg" width="286" height="215" class="img-responsive" />
                     </a>
-                    <a class="col-xs-6 col-md-4 gallery-item web-design print" href="#" data-toggle="modal" data-target="#modalImage" data-image-url="tmp/img-640x480-5.jpg">
+                    <a class="col-xs-6 col-md-4 gallery-item web-design print" href="#" data-toggle="modal" data-target="#modalImage" data-image-url="assets/img/tmp/img-640x480-5.jpg">
                       <div class="image-info">
                         <h2>Lorem ipsum dolor</h2>
                         <h3>- web designer -</h3>
                         <span class="more fa fa-expand"></span>
                       </div>
-                      <img src="tmp/img-286x215-5.jpg" width="286" height="215" class="img-responsive" />
+                      <img src="assets/img/tmp/img-286x215-5.jpg" width="286" height="215" class="img-responsive" />
                     </a>
-                    <a class="col-xs-6 col-md-4 gallery-item logo-design" href="#" data-toggle="modal" data-target="#modalImage" data-image-url="tmp/img-640x480-6.jpg">
+                    <a class="col-xs-6 col-md-4 gallery-item logo-design" href="#" data-toggle="modal" data-target="#modalImage" data-image-url="assets/img/tmp/img-640x480-6.jpg">
                       <div class="image-info">
                         <h2>Lorem ipsum dolor</h2>
                         <h3>- web designer -</h3>
                         <span class="more fa fa-expand"></span>
                       </div>
-                      <img src="tmp/img-286x215-6.jpg" width="286" height="215" class="img-responsive" />
+                      <img src="assets/img/tmp/img-286x215-6.jpg" width="286" height="215" class="img-responsive" />
                     </a>
                   </div>
 
@@ -433,7 +433,6 @@
       </div>
     </div>
 
-
     <!-- Javscripts -->
     
 
@@ -445,7 +444,6 @@
     <script src="assets/js/scripts.js"></script>
 
     <!-- Google analytics -->
-    
 
   </body>
 </html>

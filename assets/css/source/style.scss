@@ -113,6 +113,7 @@ form textarea:focus {
 }
 .container .content h1 {
   margin-top: 10px;
+  font-size: 45px;
 }
 .special-element {
   width: 112px;
@@ -280,7 +281,7 @@ a.btn-scroll:hover span {
   background-image: url('../img/bg-intro.jpg');
 }
 #intro h1 {
-  font-size: 125px;
+  font-size: 65px;
   font-weight: bold;
 }
 #intro h2 {
@@ -663,7 +664,7 @@ a.btn-scroll:hover span {
   margin-bottom: 1px;
 }
 #menu {
-  width: 165px;
+  width: 202px;
   position: fixed;
   left: 30px;
   top: 20px;
@@ -678,12 +679,12 @@ a.btn-scroll:hover span {
   background: rgba(23, 26, 26, 0.25);
   margin-bottom: 1px;
   padding: 8px 0 0 0;
-  height: 156px;
+  height: 159px;
 }
 #menu .pagelogo a {
   display: block;
   text-align: center;
-  font-size: 40px;
+  font-size: 33px;
   padding-top: 0;
   line-height: 40px;
 }

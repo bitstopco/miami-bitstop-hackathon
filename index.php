@@ -48,11 +48,11 @@
             <!--
             <li><a href="#intro" class="scroll"><span class="fa fa-list-ul"></span> Intro</a></li>
             -->
-            <li><a href="#bitcoin" class="scroll"><span class="fa fa-list-ul"></span> Why</a></li>
-            <li><a href="#facts" class="scroll"><span class="fa fa-th"></span> Benifits</a></li>
-            <li><a href="#prizes" class="scroll"><span class="fa fa-th"></span> Prizes</a></li>
-            <li><a href="#bigboys" class="scroll"><span class="fa fa-arrows-h"></span> Accepting</a></li>
-            <li><a href="#sponsors" class="scroll"><span class="fa fa-image"></span> Sponsors</a></li>
+            <li><a href="#bitcoin" class="scroll"><span class="fa fa-bitcoin"></span> Huh? Bitcoin?</a></li>
+            <li><a href="#facts" class="scroll"><span class="fa fa-bitcoin"></span> Facts</a></li>
+            <li><a href="#prizes" class="scroll"><span class="fa fa-bitcoin"></span> Prizes</a></li>
+            <li><a href="#bigboys" class="scroll"><span class="fa fa-bitcoin"></span> Big Boys</a></li>
+            <li><a href="#sponsors" class="scroll"><span class="fa fa-bitcoin"></span> Sponsors</a></li>
             <li><a href="#contact" class="scroll"><span class="fa fa-envelope-o"></span> Contact</a></li>
           </ul>
         </div>

@@ -371,6 +371,11 @@ a.btn-scroll:hover span {
   margin: 6px 14px 6px 14px;
 }
 
+.sponsors .spon-logos img {
+  width: 22%;
+  margin: 6px 14px 6px 14px;
+}
+
 #textcontent {
   background: #2fc433;
   /* Old browsers */

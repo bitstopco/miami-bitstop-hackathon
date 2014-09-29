@@ -358,8 +358,11 @@
                 <div class="special-element"><span></span></div>
                   <h1>Our generous sponsors</h1>
               
-
-                  
+                    <div class="row">
+                      <div class="col-md-9 col-sm-9 col-lg-12 spon-logos">
+                        <a href="http://bitstop.co" target="_blank"><img src="assets/img/sponsors/bitstop.png"></a>
+                      </div>
+                    </div>
 
                 </div>
               </div>

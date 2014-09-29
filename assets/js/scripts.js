@@ -27,7 +27,7 @@ $("document").ready(function() {
 		if (arr[1]) {
 			var section = arr[1];
 			$('html, body').animate({
-	        	scrollTop: $("#" + section).offset().top
+	        	scrollTop: $("." + section).offset().top
 	        }, 1000);
 		}
 	});

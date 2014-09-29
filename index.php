@@ -49,11 +49,11 @@
             <li><a href="#intro" class="scroll"><span class="fa fa-list-ul"></span> Intro</a></li>
             -->
             <li><a href="#bitcoin" class="scroll"><span class="fa fa-bitcoin"></span> Huh? Bitcoin?</a></li>
-            <li><a href="#facts" class="scroll"><span class="fa fa-bitcoin"></span> Facts</a></li>
-            <li><a href="#prizes" class="scroll"><span class="fa fa-bitcoin"></span> Prizes</a></li>
-            <li><a href="#resources" class="scroll"><span class="fa fa-bitcoin"></span> Resources</a></li>
-            <li><a href="#bigboys" class="scroll"><span class="fa fa-bitcoin"></span> The Big Boys</a></li>
-            <li><a href="#sponsors" class="scroll"><span class="fa fa-bitcoin"></span> Sponsors</a></li>
+            <li><a href="#facts" class="scroll"><span class="fa fa-puzzle-piece"></span> Facts</a></li>
+            <li><a href="#prizes" class="scroll"><span class="fa fa-trophy"></span> Prizes</a></li>
+            <li><a href="#resources" class="scroll"><span class="fa fa-code"></span> Resources</a></li>
+            <li><a href="#bigboys" class="scroll"><span class="fa fa-users"></span> The Big Boys</a></li>
+            <li><a href="#sponsors" class="scroll"><span class="fa fa-bolt"></span> Sponsors</a></li>
             <li><a href="#contact" class="scroll"><span class="fa fa-envelope-o"></span> Contact</a></li>
           </ul>
         </div>

@@ -604,7 +604,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 28440,
+		"initialSize": 28048,
 		"inputAbbreviatedPath": "\/assets\/img\/accepting\/chunkhost.png",
 		"outputAbbreviatedPath": "\/assets\/img\/accepting\/chunkhost.png",
 		"outputPathIsOutsideProject": 0,
@@ -644,13 +644,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/accepting\/Paypal.png": {
+	"\/assets\/img\/accepting\/paypal.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 26724,
-		"inputAbbreviatedPath": "\/assets\/img\/accepting\/Paypal.png",
-		"outputAbbreviatedPath": "\/assets\/img\/accepting\/Paypal.png",
+		"inputAbbreviatedPath": "\/assets\/img\/accepting\/paypal.png",
+		"outputAbbreviatedPath": "\/assets\/img\/accepting\/paypal.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -670,7 +670,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5323,
+		"initialSize": 89626,
 		"inputAbbreviatedPath": "\/assets\/img\/accepting\/square.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/accepting\/square.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -886,16 +886,49 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/js\/modernizr.min.js": {
+	"\/assets\/js\/countdown.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/countdown.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/countdown-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 0
+		},
+	"\/assets\/js\/countdown_plugins.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/countdown_plugins.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/countdown_plugins-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 0
+		},
+	"\/assets\/js\/min\/countdown-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/min\/countdown-min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/min\/countdown-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/modernizr.min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/assets\/js\/modernizr.min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/min\/modernizr.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 0
 		},
 	"\/assets\/js\/parsley.js": {
 		"fileType": 64,
@@ -906,18 +939,18 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 0
 		},
 	"\/assets\/js\/parsley.min.js": {
 		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/assets\/js\/parsley.min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/min\/parsley.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 0
 		},
 	"\/assets\/js\/scripts.js": {
 		"fileType": 64,
@@ -928,7 +961,7 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 0
 		},
 	"\/index.php": {
 		"fileType": 8192,

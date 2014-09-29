@@ -62,15 +62,26 @@
         <div class="container">
           
             <div class="col-md-10 col-md-offset-1 vertical-center">
-              <div class="text-center margin-offset animated bounceInDown">
-                  <div class="special-element center"><span></span></div>
-                  <h2>Bitcoin will change the way we use money forever</h2>
-                  <h1>Do you want to create code that will empower people all over the world?</h1>
-                  <p>
-                    <a class="btn scroll" href="#textcontent">FIND OUT MORE</a>
-                  </p>
-                
+
+              <div class="text-center animated bounceInDown">
+                <h2>Bitcoin will change the way we use money forever</h2>
+                <h1>Do you want to create code that will empower people all over the world?</h1>
+                  
+                <div class="special-element center"><span></span></div>
               </div>
+
+              <div id="countdown_container">
+                <div id="countdown_timer"></div>
+                <div id="countdown_clock">
+                  <canvas id="circular_countdown_days" width="160" height="160"></canvas>
+                  <canvas id="circular_countdown_hours" width="160" height="160"></canvas>
+                  <canvas id="circular_countdown_minutes" width="160" height="160"></canvas>
+                  <canvas id="circular_countdown_seconds" width="160" height="160"></canvas>
+                </div>
+              </div>
+
+              <h2 class="el_dia">November 28, 2014 - 7:00 PM</h2>
+
             </div>
             <a class="scrolldown scroll btn-scroll" href="#textcontent"><span class="fa fa-arrow-down"></span></a>
           
@@ -399,7 +410,32 @@
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- Custom Javascript -->
-    <script src="assets/js/scripts.js"></script>
+    <script src="assets/js/min/scripts-min.js"></script>
+    <script src="assets/js/min/countdown_plugins-min.js"></script>
+    <script src="assets/js/min/countdown-min.js"></script>
+
+    <script>
+      $(document).ready(function($){
+        $('#countdown_clock').circularCountdown({
+            strokeDaysBackgroundColor:'rgba(0,0,0,0.10)',
+            strokeDaysColor:'#FFFFFF',
+            strokeHoursBackgroundColor:'rgba(0,0,0,0.10)',
+            strokeHoursColor:'#FFFFFF',
+            strokeMinutesBackgroundColor:'rgba(0,0,0,0.10)',
+            strokeMinutesColor:'#FFFFFF',
+            strokeSecondsBackgroundColor:'rgba(0,0,0,0.10)',
+            strokeSecondsColor:'#FFFFFF',
+            strokeWidth:17,
+            strokeBackgroundWidth:17,
+            countdownEasing:'easeOutBounce',
+            countdownTickSpeed:'slow',
+            backgroundShadowColor: 'rgba(0,0,0,0.2)',
+            backgroundShadowBlur: 0,
+            strokeShadowColor: 'rgba(0,0,0,0.2)',
+            strokeShadowBlur: 0
+        });
+      });
+    </script>
 
     <!-- Google analytics -->
 

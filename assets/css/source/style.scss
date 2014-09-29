@@ -298,6 +298,47 @@ a.btn-scroll:hover span {
     font-size: 22px;
   }
 }
+
+.accepting {
+  background: #FFFFFF!important;
+  /* Old browsers */
+
+  background: -moz-linear-gradient(left, #FFFFFF 0%, #FFFFFF 100%)!important;
+  /* FF3.6+ */
+
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF))!important;
+  /* Chrome,Safari4+ */
+
+  background: -webkit-linear-gradient(left, #FFFFFF 0%, #FFFFFF 100%)!important;
+  /* Chrome10+,Safari5.1+ */
+
+  background: -o-linear-gradient(left, #FFFFFF 0%, #FFFFFF 100%)!important;
+  /* Opera 11.10+ */
+
+  background: -ms-linear-gradient(left, #FFFFFF 0%, #FFFFFF 100%)!important;
+  /* IE10+ */
+
+  background: linear-gradient(to right, #FFFFFF 0%, #FFFFFF 100%)!important;
+  /* W3C */
+
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@color1', endColorstr='@color2', GradientType=1)!important;
+  /* IE6-9 */
+
+  h1,
+  p
+  {
+    color: #48494b;
+  }
+
+  .special-element {
+
+    span {
+      border: 5px solid #48494b;
+    }
+  } 
+
+}
+
 #textcontent {
   background: #2fc433;
   /* Old browsers */

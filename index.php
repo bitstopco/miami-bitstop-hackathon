@@ -48,11 +48,11 @@
             <!--
             <li><a href="#intro" class="scroll"><span class="fa fa-list-ul"></span> Intro</a></li>
             -->
-            <li><a href="#textcontent" class="scroll"><span class="fa fa-list-ul"></span> Text</a></li>
-            <li><a href="#grid" class="scroll"><span class="fa fa-th"></span> Grid</a></li>
-            <li><a href="#carousel" class="scroll"><span class="fa fa-arrows-h"></span> Carousel</a></li>
-            <li><a href="#gallery" class="scroll"><span class="fa fa-image"></span> Gallery</a></li>
-            <li><a href="#contact" class="scroll"><span class="fa fa-envelope-o"></span> Contact</a></li>
+            <li><a href="#Huh? Bitcoin?" class="scroll"><span class="fa fa-list-ul"></span> Text</a></li>
+            <li><a href="#Facts" class="scroll"><span class="fa fa-th"></span> Grid</a></li>
+            <li><a href="#Big Boys" class="scroll"><span class="fa fa-arrows-h"></span> Carousel</a></li>
+            <li><a href="#Sponsors" class="scroll"><span class="fa fa-image"></span> Gallery</a></li>
+            <li><a href="#Contact" class="scroll"><span class="fa fa-envelope-o"></span> Contact</a></li>
           </ul>
         </div>
       </section>
@@ -85,7 +85,7 @@
                 <h1>Why Bitcoin?</h1>
                 <div class="row">
                   <div class="col-md-3 col-sm-3 col-lg-2">
-                    <span class="big-icon fa fa-desktop"></span>
+                    <span class="big-icon fa fa-bitcoin"></span>
                   </div>
                   <div class="col-md-9 col-sm-9 col-lg-10">
                     <p>
@@ -93,11 +93,58 @@
                     </p>
                   </div>
                 </div>
+
                 <h2>Why Miami?</h2>
-                <p>
-                  We chose Miami because its geographical location makes it a gateway to the rest of the World.  Bitcoin is the currency and network of the World.  Not only are there poeple in Miami that can greatly benfit from Bitcoin but poeple from all over the world constantly travel here for both business and pleasure.  
-                </p>
-                <a href="#" class="btn" data-toggle="modal" data-target="#modalText">READ MORE</a>
+                <div class="row">
+                  <div class="col-md-3 col-sm-3 col-lg-2">
+                    <span class="big-icon fa fa-globe"></span>
+                  </div>
+                  <div class="col-md-9 col-sm-9 col-lg-10">
+                    <p>
+                    We chose Miami because its geographical location makes it a gateway to the rest of the World.  Bitcoin is the currency and network of the World.  Not only are there poeple in Miami that can greatly benfit from Bitcoin but poeple from all over the world constantly travel here for both business and pleasure.  
+                    </p>
+                  </div>
+                </div>
+
+                <h2>What does this mean for computer hackers?</h2>
+                <div class="row">
+                  <div class="col-md-3 col-sm-3 col-lg-2">
+                    <span class="big-icon fa fa-flask"></span>
+                  </div>
+                  <div class="col-md-9 col-sm-9 col-lg-10">
+                    <p>
+                    Bitcoin provides a great oppurtunity for hackers.  Like the internet Bitcoin is an open protocol. This means you can build awesome apps that leverege the protocol and allow you to do things never done before.  Great hackers all over the world are using Bitcoin to build great software. VC funding is measured to set a record year 2014 with over 350 Million invested in Bitcoin stasrtups.  Bitcoin startups are hiring and understabnding block chain centered protocols such as Bitcoin will be in demand.   Check out some examples below:       
+                    </p>
+
+                    <ul>
+                      <li>
+                        <a href= "https://www.youtube.com/watch?v=HmYP-7pcdhM">Micropayment channels</a>
+                      </li>
+                      <li>
+                        <a href="https://www.changetip.com">Social network tipping apps</a>
+                      </li>
+                      <li>
+                        <a href= "https://www.proofofexistence.com/about">Notary services</a>
+                      </li>
+                      <li>
+                        <a href="https://github.com/schildbach/bitcoin-wallet">Open source bitcoin wallets</a>
+                      </li>
+                      <li>
+                        <a href="https://www.openbazaar.com">Decentralized market places</a>
+                      </li>
+                      <li>
+                        <a href="https://www.darkwallet.is/">Privacy Bitcoin wallets</a>
+                      </li>
+                      <li>
+                        <a href="https://www.livingroomofsatoshi.com/">Bill payment services</a>
+                      </li>
+                      <li>
+                        <a href="https://www.swarm.co/">Crowdfunding platorms</a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <a style="display: none;" href="#" class="btn" data-toggle="modal" data-target="#modalText">READ MORE</a>
                 <!--
                 <a href="#" class="btn btn-lg">READ MORE</a>
                 <a href="#" class="btn btn-sm">READ MORE</a>
@@ -127,28 +174,28 @@
                     <p>Typically only a miners fee of .0001 (USD VALUE) can cover the cost of any size transaction.  Transactions are fast and settled permanetly!</p>
                   </div>
                   <div class="col-md-1 col-md-offset-1 col-sm-1 col-xs-3">
-                    <span class="small-icon fa fa-heart"></span>
+                    <span class="small-icon fa fa-code"></span>
                   </div>
                   <div class="col-md-4 col-sm-5 col-xs-9">
                     <h4>Open Source</h4>
-                    <p>The protcol is open soursce so you know the rules.  The system is transparent </p>
+                    <p>The protcol is open soursce so you know the rules.  The system is transparent and does not require to to trust other user.  Trust is baked into Bitcoin making it trustless for you. </p>
                   </div>
                 </div>
 
                 <div class="row grid-row">
                   <div class="col-md-1 col-sm-1 col-xs-3">
-                    <span class="small-icon fa fa-th-large"></span>
+                    <span class="small-icon fa fa-code-fork"></span>
                   </div>
                   <div class="col-md-4 col-sm-5 col-xs-9">
                     <h4>Decentralized</h4>
                     <p>Like Bittorrent it is run by people all over the world so there is no central point to shutdown</p>
                   </div>
                   <div class="col-md-1 col-md-offset-1 col-sm-1 col-xs-3">
-                    <span class="small-icon fa fa-puzzle-piece"></span>
+                    <span class="small-icon fa fa-users"></span>
                   </div>
                   <div class="col-md-4 col-sm-5 col-xs-9">
                     <h4>For the poeple by the people</h4>
-                    <p></p>
+                    <p>Bitcoin is peer to peer. That means no middle men if you dont need them.  Just like us, there are people all over the world hacking away at the future of payments.</p>
                   </div>
                 </div>
 
@@ -194,68 +241,28 @@
         </div>
       </section>
 
-
-      <section id="carousel" class="slidepage">
+      <section id="textcontent" class="slidepage accepting">
         <div class="container">
           
             <div class="col-md-10 col-md-offset-2">
               <div class="content">
-                <div class="special-element"><span></span></div>
                 <h1>Companys accepting or working with Bitcoin</h1>
-
-                <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-                  <!-- Indicators -->
-                  <ol class="carousel-indicators">
-                    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-                    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-                    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-                  </ol>
-
-                  <!-- Wrapper for slides -->
-                  <div class="carousel-inner">
-                    <div class="item active col-md-12">
-                      <div class="carousel-caption">
-                        <span class="big-icon fa fa-car"></span>
-                        <h3>Lorem ipsum dolores</h3>
-                        <p>Lorem ipsum dolor sit amet, conseptur ctetur adipiscing elit. Integer ultric iesto ictumes purus sit amet fac ilisis. Lorem ipsum dolor sit amet.</p>
-                      </div>
-                    </div>
-                    <div class="item">
-                      
-                      <div class="carousel-caption">
-                        <span class="big-icon fa fa-cloud"></span>
-                        <h3>Lorem ipsum dolores</h3>
-                        <p>Lorem ipsum dolor sit amet, conseptur ctetur adipiscing elit. Integer ultric iesto ictumes purus sit amet fac ilisis.</p>
-                      </div>
-                    </div>
-                    <div class="item">
-                      
-                      <div class="carousel-caption">
-                        <span class="big-icon fa fa-desktop"></span>
-                        <h3>Lorem ipsum dolores</h3>
-                        <p>Lorem ipsum dolor sit amet, conseptur ctetur adipiscing elit. Integer ultric iesto ictumes purus sit amet fac ilisis.</p>
-                      </div>
-                    </div>
+                <div class="row">
+                  <div class="col-md-9 col-sm-9 col-lg-12">
+                    <img src="assets/img/accepts/paypal.gif">
+                    <img src="assets/img/accepts/square.jpg">
+                    <img src="assets/img/accepts/shopify.png">
+                    <img src="assets/img/accepts/overstock.png">
+                    <img src="assets/img/accepts/">
+                    <img src="assets/img/accepts/">
                   </div>
-
-                  <!-- Controls -->
-                  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-                    <span class="glyphicon glyphicon-chevron-left"></span>
-                  </a>
-
-                  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-                    <span class="glyphicon glyphicon-chevron-right"></span>
-                  </a>
                 </div>
               </div>
             </div>
-
-            <a class="scrolldown scroll btn-scroll" href="#gallery"><span class="fa fa-arrow-down"></span></a>
+            <a class="scrolldown scroll btn-scroll" href="#grid"><span class="fa fa-arrow-down"></span></a>
           
         </div>
       </section>
-
-
 
       <section id="gallery" class="slidepage">
         <div class="container">
@@ -263,68 +270,10 @@
             <div class="col-md-10 col-md-offset-2">
               <div class="content">
                 <div class="special-element"><span></span></div>
-                  <h1>GALLERY</h1>
+                  <h1>Our generous sponsors</h1>
               
 
-                  <div id="filter-gallery">
-                    <ul>
-                      <li class="active"><a href="#" class="btn" data-filter="*">ALL</a></li>
-                      <li><a href="#" class="btn" data-filter=".web-design">WEB DESIGN</a></li>
-                      <li><a href="#" class="btn" data-filter=".logo-design">LOGO DESIGN</a></li>
-                      <li><a href="#" class="btn" data-filter=".print">PRINT</a></li>
-                    </ul>
-                  </div>
-
-                  <div class="gallery-items clearfix">
-                    <a class="col-xs-6 col-md-4 gallery-item web-design" href="#" data-toggle="modal" data-target="#modalImage" data-image-url="assets/img/tmp/img-640x480-1.jpg">
-                      <div class="image-info">
-                        <h2>Lorem ipsum dolor</h2>
-                        <h3>- web designer -</h3>
-                        <span class="more fa fa-expand"></span>
-                      </div>
-                      <img src="assets/img/tmp/img-286x215-1.jpg" width="286" height="215" class="img-responsive" />
-                    </a>
-                    <a class="col-xs-6 col-md-4 gallery-item web-design logo-design" href="#" data-toggle="modal" data-target="#modalImage" data-image-url="assets/img/tmp/img-640x480-2.jpg">
-                      <div class="image-info">
-                        <h2>Lorem ipsum dolor</h2>
-                        <h3>- web designer -</h3>
-                        <span class="more fa fa-expand"></span>
-                      </div>
-                      <img src="assets/img/tmp/img-286x215-2.jpg" width="286" height="215" class="img-responsive" />
-                    </a>
-                    <a class="col-xs-6 col-md-4 gallery-item logo-design" href="#" data-toggle="modal" data-target="#modalImage" data-image-url="assets/img/tmp/img-640x480-3.jpg">
-                      <div class="image-info">
-                        <h2>Lorem ipsum dolor</h2>
-                        <h3>- web designer -</h3>
-                        <span class="more fa fa-expand"></span>
-                      </div>
-                      <img src="assets/img/tmp/img-286x215-3.jpg" width="286" height="215" class="img-responsive" />
-                    </a>
-                    <a class="col-xs-6 col-md-4 gallery-item web-design" href="#" data-toggle="modal" data-target="#modalImage" data-image-url="assets/img/tmp/img-640x480-4.jpg">
-                      <div class="image-info">
-                        <h2>Lorem ipsum dolor</h2>
-                        <h3>- web designer -</h3>
-                        <span class="more fa fa-expand"></span>
-                      </div>
-                      <img src="assets/img/tmp/img-286x215-4.jpg" width="286" height="215" class="img-responsive" />
-                    </a>
-                    <a class="col-xs-6 col-md-4 gallery-item web-design print" href="#" data-toggle="modal" data-target="#modalImage" data-image-url="assets/img/tmp/img-640x480-5.jpg">
-                      <div class="image-info">
-                        <h2>Lorem ipsum dolor</h2>
-                        <h3>- web designer -</h3>
-                        <span class="more fa fa-expand"></span>
-                      </div>
-                      <img src="assets/img/tmp/img-286x215-5.jpg" width="286" height="215" class="img-responsive" />
-                    </a>
-                    <a class="col-xs-6 col-md-4 gallery-item logo-design" href="#" data-toggle="modal" data-target="#modalImage" data-image-url="assets/img/tmp/img-640x480-6.jpg">
-                      <div class="image-info">
-                        <h2>Lorem ipsum dolor</h2>
-                        <h3>- web designer -</h3>
-                        <span class="more fa fa-expand"></span>
-                      </div>
-                      <img src="assets/img/tmp/img-286x215-6.jpg" width="286" height="215" class="img-responsive" />
-                    </a>
-                  </div>
+                  
 
                 </div>
               </div>

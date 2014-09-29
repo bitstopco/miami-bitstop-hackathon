@@ -600,6 +600,61 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/assets\/img\/accepting\/expedia.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34334,
+		"inputAbbreviatedPath": "\/assets\/img\/accepting\/expedia.png",
+		"outputAbbreviatedPath": "\/assets\/img\/accepting\/expedia.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/accepting\/namecheap.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21944,
+		"inputAbbreviatedPath": "\/assets\/img\/accepting\/namecheap.png",
+		"outputAbbreviatedPath": "\/assets\/img\/accepting\/namecheap.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/accepting\/overstock.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5370,
+		"inputAbbreviatedPath": "\/assets\/img\/accepting\/overstock.png",
+		"outputAbbreviatedPath": "\/assets\/img\/accepting\/overstock.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/accepting\/shopify.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33383,
+		"inputAbbreviatedPath": "\/assets\/img\/accepting\/shopify.png",
+		"outputAbbreviatedPath": "\/assets\/img\/accepting\/shopify.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/accepting\/square.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5323,
+		"inputAbbreviatedPath": "\/assets\/img\/accepting\/square.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/accepting\/square.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/bg-carousel.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

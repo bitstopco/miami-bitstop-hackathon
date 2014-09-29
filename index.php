@@ -356,8 +356,7 @@
         <div class="container">
           <div class="col-md-7 col-sm-6 col-xs-12">
             <p>
-              &copy; FRESH. All rights reserved<br/>
-              Design: <a href="http://jurajmolnar.com" target="_blank">jurajmolnar.com</a>
+              &copy; Miami Bitcoin Hackathon - <a href="https://bitstop.co" target="_blank">Bitstop</a>
             </p>
           </div>
           <div class="col-md-5 col-sm-6 col-xs-12">

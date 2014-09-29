@@ -80,7 +80,10 @@
                 </div>
               </div>
 
-              <h2 class="el_dia animated bounceInUp">November 28, 2014 - 7:00 PM</h2>
+              <div class="el_dia animated bounceInUp">
+                <h2>Start: December 5, 2014 - 7:00 PM</h2>
+                <h2>End: December 7, 2014 - 7:00 PM</h2>
+              </div>
 
             </div>
             <a class="scrolldown scroll btn-scroll" href="#textcontent"><span class="fa fa-arrow-down"></span></a>

@@ -962,7 +962,11 @@ a.btn-scroll:hover span {
 
 .el_dia {
   text-align: center;
-  margin: 0 auto 42px auto!important;
+  margin: -19px auto 0px auto !important;
+
+  h2  {
+    font-size: 21px!important;
+  }
 }
 
 #countdown_timer,

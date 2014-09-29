@@ -48,11 +48,12 @@
             <!--
             <li><a href="#intro" class="scroll"><span class="fa fa-list-ul"></span> Intro</a></li>
             -->
-            <li><a href="#Huh? Bitcoin?" class="scroll"><span class="fa fa-list-ul"></span> Text</a></li>
-            <li><a href="#Facts" class="scroll"><span class="fa fa-th"></span> Grid</a></li>
-            <li><a href="#Big Boys" class="scroll"><span class="fa fa-arrows-h"></span> Carousel</a></li>
-            <li><a href="#Sponsors" class="scroll"><span class="fa fa-image"></span> Gallery</a></li>
-            <li><a href="#Contact" class="scroll"><span class="fa fa-envelope-o"></span> Contact</a></li>
+            <li><a href="#bitcoin" class="scroll"><span class="fa fa-list-ul"></span> Why</a></li>
+            <li><a href="#facts" class="scroll"><span class="fa fa-th"></span> Benifits</a></li>
+            <li><a href="#prizes" class="scroll"><span class="fa fa-th"></span> Prizes</a></li>
+            <li><a href="#bigboys" class="scroll"><span class="fa fa-arrows-h"></span> Accepting</a></li>
+            <li><a href="#sponsors" class="scroll"><span class="fa fa-image"></span> Sponsors</a></li>
+            <li><a href="#contact" class="scroll"><span class="fa fa-envelope-o"></span> Contact</a></li>
           </ul>
         </div>
       </section>
@@ -76,7 +77,7 @@
         </div>
       </section>
 
-      <section id="textcontent" class="slidepage">
+      <section id="textcontent" class="slidepage bitcoin">
         <div class="container">
           
             <div class="col-md-10 col-md-offset-2">
@@ -163,7 +164,7 @@
         </div>
       </section>
 
-      <section id="grid" class="slidepage">
+      <section id="grid" class="slidepage facts">
         <div class="container">
           
             <div class="col-md-10 col-md-offset-2">
@@ -213,7 +214,7 @@
         </div>
       </section>
 
-      <section id="textcontent" class="slidepage">
+      <section id="textcontent" class="slidepage prizes">
         <div class="container">
           
             <div class="col-md-10 col-md-offset-2">
@@ -247,7 +248,7 @@
         </div>
       </section>
 
-      <section id="textcontent" class="slidepage accepting">
+      <section id="textcontent" class="slidepage accepting bigboys">
         <div class="container">
           
             <div class="col-md-10 col-md-offset-2">
@@ -270,7 +271,7 @@
         </div>
       </section>
 
-      <section id="gallery" class="slidepage">
+      <section id="gallery" class="slidepage sponsors">
         <div class="container">
           
             <div class="col-md-10 col-md-offset-2">
@@ -290,7 +291,7 @@
       </section>
 
 
-      <section id="contact" class="slidepage">
+      <section id="contact" class="slidepage contact">
         <div class="container">
           
             <div class="col-md-10 col-md-offset-2">

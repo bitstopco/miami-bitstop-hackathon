@@ -51,6 +51,7 @@
             <li><a href="#bitcoin" class="scroll"><span class="fa fa-bitcoin"></span> Huh? Bitcoin?</a></li>
             <li><a href="#facts" class="scroll"><span class="fa fa-bitcoin"></span> Facts</a></li>
             <li><a href="#prizes" class="scroll"><span class="fa fa-bitcoin"></span> Prizes</a></li>
+            <li><a href="#resources" class="scroll"><span class="fa fa-bitcoin"></span> Resources</a></li>
             <li><a href="#bigboys" class="scroll"><span class="fa fa-bitcoin"></span> The Big Boys</a></li>
             <li><a href="#sponsors" class="scroll"><span class="fa fa-bitcoin"></span> Sponsors</a></li>
             <li><a href="#contact" class="scroll"><span class="fa fa-envelope-o"></span> Contact</a></li>

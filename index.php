@@ -70,7 +70,7 @@
                 <div class="special-element center"><span></span></div>
               </div>
 
-              <div id="countdown_container">
+              <div id="countdown_container" class="animated bounceInUp">
                 <div id="countdown_timer"></div>
                 <div id="countdown_clock">
                   <canvas id="circular_countdown_days" width="160" height="160"></canvas>
@@ -80,7 +80,7 @@
                 </div>
               </div>
 
-              <h2 class="el_dia">November 28, 2014 - 7:00 PM</h2>
+              <h2 class="el_dia animated bounceInUp">November 28, 2014 - 7:00 PM</h2>
 
             </div>
             <a class="scrolldown scroll btn-scroll" href="#textcontent"><span class="fa fa-arrow-down"></span></a>

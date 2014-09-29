@@ -101,47 +101,53 @@
                   </div>
                   <div class="col-md-9 col-sm-9 col-lg-10">
                     <p>
-                    We chose Miami because its geographical location makes it a gateway to the rest of the World.  Bitcoin is the currency and network of the World.  Not only are there poeple in Miami that can greatly benfit from Bitcoin but poeple from all over the world constantly travel here for both business and pleasure.  
+                      We chose Miami because its geographical location makes it a gateway to the rest of the World.  Bitcoin is the currency and network of the World.  Not only are there poeple in Miami that can greatly benfit from Bitcoin but poeple from all over the world constantly travel here for both business and pleasure.  
                     </p>
                   </div>
                 </div>
 
-                <h2>What does this mean for computer hackers?</h2>
+                <h2>What does this mean for developers?</h2>
                 <div class="row">
                   <div class="col-md-3 col-sm-3 col-lg-2">
                     <span class="big-icon fa fa-flask"></span>
                   </div>
                   <div class="col-md-9 col-sm-9 col-lg-10">
                     <p>
-                    Bitcoin provides a great oppurtunity for hackers.  Like the internet Bitcoin is an open protocol. This means you can build awesome apps that leverege the protocol and allow you to do things never done before.  Great hackers all over the world are using Bitcoin to build great software. VC funding is measured to set a record year 2014 with over 350 Million invested in Bitcoin stasrtups.  Bitcoin startups are hiring and understabnding block chain centered protocols such as Bitcoin will be in demand.   Check out some examples below:       
+                      Bitcoin provides a great oppurtunity for developers.  Like the internet Bitcoin is an open protocol. This means you can build awesome apps that leverege the protocol and allow you to do things never done before.  Great hackers all over the world are using Bitcoin to build great software. VC funding is measured to set a record year 2014 with over 350 Million invested in Bitcoin stasrtups.  Bitcoin startups are hiring and understabnding block chain centered protocols such as Bitcoin will be in demand.   Check out some examples below:       
                     </p>
 
-                    <ul>
-                      <li>
-                        <a href= "https://www.youtube.com/watch?v=HmYP-7pcdhM">Micropayment channels</a>
-                      </li>
-                      <li>
-                        <a href="https://www.changetip.com">Social network tipping apps</a>
-                      </li>
-                      <li>
-                        <a href= "https://www.proofofexistence.com/about">Notary services</a>
-                      </li>
-                      <li>
-                        <a href="https://github.com/schildbach/bitcoin-wallet">Open source bitcoin wallets</a>
-                      </li>
-                      <li>
-                        <a href="https://www.openbazaar.com">Decentralized market places</a>
-                      </li>
-                      <li>
-                        <a href="https://www.darkwallet.is/">Privacy Bitcoin wallets</a>
-                      </li>
-                      <li>
-                        <a href="https://www.livingroomofsatoshi.com/">Bill payment services</a>
-                      </li>
-                      <li>
-                        <a href="https://www.swarm.co/">Crowdfunding platorms</a>
-                      </li>
-                    </ul>
+                    <div class="means">
+                      <ul>
+                        <li>
+                          <a href= "https://www.youtube.com/watch?v=HmYP-7pcdhM" target="_blank">Micropayment channels</a>
+                        </li>
+                        <li>
+                          <a href="https://www.changetip.com" target="_blank">Social network tipping apps</a>
+                        </li>
+                        <li>
+                          <a href= "https://www.proofofexistence.com/about" target="_blank">Notary services</a>
+                        </li>
+                        <li>
+                          <a href="https://github.com/schildbach/bitcoin-wallet" target="_blank">Open source bitcoin wallets</a>
+                        </li>
+                      </ul>
+
+                      <ul>
+                        <li>
+                          <a href="https://www.openbazaar.com" target="_blank">Decentralized market places</a>
+                        </li>
+                        <li>
+                          <a href="https://www.darkwallet.is/" target="_blank">Privacy Bitcoin wallets</a>
+                        </li>
+                        <li>
+                          <a href="https://www.livingroomofsatoshi.com/" target="_blank">Bill payment services</a>
+                        </li>
+                        <li>
+                          <a href="https://www.swarm.co/" target="_blank">Crowdfunding platorms</a>
+                        </li>
+                      </ul>
+                    </div>
+
                   </div>
                 </div>
                 <a style="display: none;" href="#" class="btn" data-toggle="modal" data-target="#modalText">READ MORE</a>

@@ -364,6 +364,20 @@ a.btn-scroll:hover span {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@color1', endColorstr='@color2', GradientType=1);
   /* IE6-9 */
 
+
+  .means {
+    overflow: hidden;
+
+    ul {
+      margin: 0px 0px 0px 21px;
+      float: left;
+    }
+
+    ul:last-child {
+      margin-left: 89px;
+    }
+  }
+
 }
 #textcontent.image-background {
   background-image: url('../img/bg-textcontent.jpg');

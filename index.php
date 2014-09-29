@@ -51,7 +51,7 @@
             <li><a href="#bitcoin" class="scroll"><span class="fa fa-bitcoin"></span> Huh? Bitcoin?</a></li>
             <li><a href="#facts" class="scroll"><span class="fa fa-bitcoin"></span> Facts</a></li>
             <li><a href="#prizes" class="scroll"><span class="fa fa-bitcoin"></span> Prizes</a></li>
-            <li><a href="#bigboys" class="scroll"><span class="fa fa-bitcoin"></span> Big Boys</a></li>
+            <li><a href="#bigboys" class="scroll"><span class="fa fa-bitcoin"></span> The Big Boys</a></li>
             <li><a href="#sponsors" class="scroll"><span class="fa fa-bitcoin"></span> Sponsors</a></li>
             <li><a href="#contact" class="scroll"><span class="fa fa-envelope-o"></span> Contact</a></li>
           </ul>
@@ -255,13 +255,15 @@
               <div class="content">
                 <h1>Companys accepting or working with Bitcoin</h1>
                 <div class="row">
-                  <div class="col-md-9 col-sm-9 col-lg-12">
-                    <img src="assets/img/accepts/paypal.gif">
-                    <img src="assets/img/accepts/square.jpg">
-                    <img src="assets/img/accepts/shopify.png">
-                    <img src="assets/img/accepts/overstock.png">
-                    <img src="assets/img/accepts/">
-                    <img src="assets/img/accepts/">
+                  <div class="col-md-9 col-sm-9 col-lg-12 bigboys">
+                    <a href="https://stripe.com/" target="_blank"><img src="assets/img/accepting/stripe.png"></a>
+                    <a href="https://www.paypal.com/" target="_blank"><img src="assets/img/accepting/paypal.png"></a>
+                    <a href="https://squareup.com/" target="_blank"><img src="assets/img/accepting/square.jpg"></a>
+                    <a href="https://www.shopify.com/" target="_blank"><img src="assets/img/accepting/shopify.png"></a>
+                    <a href="http://www.overstock.com/" target="_blank"><img src="assets/img/accepting/overstock.png"></a>
+                    <a href="https://chunkhost.com/" target="_blank"><img src="assets/img/accepting/chunkhost.png"></a>
+                    <a href="https://www.namecheap.com/" target="_blank"><img src="assets/img/accepting/namecheap.png"></a>
+                    <a href="http://www.expedia.com/" target="_blank"><img src="assets/img/accepting/expedia.png"></a>
                   </div>
                 </div>
               </div>

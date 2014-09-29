@@ -600,6 +600,17 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/assets\/img\/accepting\/chunkhost.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28440,
+		"inputAbbreviatedPath": "\/assets\/img\/accepting\/chunkhost.png",
+		"outputAbbreviatedPath": "\/assets\/img\/accepting\/chunkhost.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/accepting\/expedia.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -633,6 +644,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/accepting\/Paypal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26724,
+		"inputAbbreviatedPath": "\/assets\/img\/accepting\/Paypal.png",
+		"outputAbbreviatedPath": "\/assets\/img\/accepting\/Paypal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/accepting\/shopify.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -651,6 +673,17 @@
 		"initialSize": 5323,
 		"inputAbbreviatedPath": "\/assets\/img\/accepting\/square.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/accepting\/square.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/accepting\/stripe.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34204,
+		"inputAbbreviatedPath": "\/assets\/img\/accepting\/stripe.png",
+		"outputAbbreviatedPath": "\/assets\/img\/accepting\/stripe.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

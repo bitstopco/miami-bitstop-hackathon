@@ -366,6 +366,10 @@ a.btn-scroll:hover span {
 .accepting .special-element span {
   border: 5px solid #48494b;
 }
+.accepting .bigboys img {
+  width: 21%;
+  margin: 6px 14px 6px 14px;
+}
 
 #textcontent {
   background: #2fc433;

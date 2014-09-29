@@ -400,6 +400,31 @@ a.btn-scroll:hover span {
   margin-left: 89px;
 }
 
+.resources {
+  background: #E82C0C !important;
+  /* Old browsers */
+  background: -moz-linear-gradient(left, #E82C0C 0%, #FF530D 100%) !important;
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #E82C0C), color-stop(100%, #FF530D)) !important;
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left, #E82C0C 0%, #FF530D 100%) !important;
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left, #E82C0C 0%, #FF530D 100%) !important;
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(left, #E82C0C 0%, #FF530D 100%) !important;
+  /* IE10+ */
+  background: linear-gradient(to right, #E82C0C 0%, #FF530D 100%) !important;
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@color1', endColorstr='@color2', GradientType=1) !important;
+  /* IE6-9 */
+}
+.resources ul {
+  margin: 0px 0px 0px 36px;
+}
+.resources .grid-row {
+  margin: 0px 0px 25px 0px;
+}
+
 #textcontent.image-background {
   background-image: url("../img/bg-textcontent.jpg");
 }

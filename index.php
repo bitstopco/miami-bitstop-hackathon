@@ -259,27 +259,89 @@
         </div>
       </section>
 
+      <section id="textcontent" class="slidepage resources">
+        <div class="container">
+          
+          <div class="col-md-10 col-md-offset-2">
+            <div class="content">
+              <h1>Developer Resources</h1>
+              
+              <div class="row grid-row">
+                <div class="col-md-4 col-sm-5 col-xs-9">
+                  <h4>API's</h4>
+                  
+                  <ul>
+                    <li><a href="https://bitpay.com/developers" target="_blank">bitpay</a></li>
+                    <li><a href="https://insight.is/" target="_blank">insight.is</a></li>
+                    <li><a href="https://chain.com/" target="_blank">chain.com</a></li>
+                    <li><a href="https://blockchain.info/api" target="_blank">blockchain.info</a></li>
+                    <li><a href="https://coinbase.com/docs/api/overview" target="_blank">coinbase.com</a></li>
+                    <li><a href="https://coinkite.com/faq/developers" target="_blank">coinkite.com</a></li>
+                  </ul>
+                </div>
+
+                <div class="col-md-4 col-sm-5 col-xs-9">
+                  <h4>Bitcoin Core</h4>
+                  
+                  <ul>
+                    <li><a href="https://github.com/bitcoin/bitcoin" target="_blank">Bitcoin Core</a></li>
+                    <li><a href="https://code.google.com/p/bitcoinj/" target="_blank">bitcoinj</a></li>
+                    <li><a href="https://github.com/libbitcoin/libbitcoin/" target="_blank">libbitcoin</a></li>
+                    <li><a href="http://bitcore.io/" target="_blank">bitcore.io</a></li>
+                    <li><a href="https://github.com/conformal/btcd" target="_blank">btcd</a></li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="row grid-row">
+                <div class="col-md-4 col-sm-5 col-xs-9">
+                  <h4>Blockchain Explorer's</h4>
+                  
+                  <ul>
+                    <li><a href="https://blockchain.info/" target="_blank">blockchain.info</a></li>
+                    <li><a href="http://blockr.io/" target="_blank">blockr.io</a></li>
+                    <li><a href="https://www.biteasy.com/" target="_blank">biteasy.com</a></li>
+                  </ul>
+                </div>
+
+                <div class="col-md-4 col-sm-5 col-xs-9">
+                  <h4>Guides</h4>
+                  
+                  <ul>
+                    <li><a href="https://bitcoin.org/en/developer-guide" target="_blank">bitcoin.org</a></li>
+                    <li><a href="https://github.com/aantonop/bitcoinbook" target="_blank">bitcoinbook</a></li>
+                  </ul>
+                </div>
+              </div>
+
+            </div>
+          </div>
+          <a class="scrolldown scroll btn-scroll" href="#grid"><span class="fa fa-arrow-down"></span></a>
+          
+        </div>
+      </section>
+
       <section id="textcontent" class="slidepage accepting bigboys">
         <div class="container">
           
-            <div class="col-md-10 col-md-offset-2">
-              <div class="content">
-                <h1>Companys accepting or working with Bitcoin</h1>
-                <div class="row">
-                  <div class="col-md-9 col-sm-9 col-lg-12 bigboys">
-                    <a href="https://stripe.com/" target="_blank"><img src="assets/img/accepting/stripe.png"></a>
-                    <a href="https://www.paypal.com/" target="_blank"><img src="assets/img/accepting/paypal.png"></a>
-                    <a href="https://squareup.com/" target="_blank"><img src="assets/img/accepting/square.jpg"></a>
-                    <a href="https://www.shopify.com/" target="_blank"><img src="assets/img/accepting/shopify.png"></a>
-                    <a href="http://www.overstock.com/" target="_blank"><img src="assets/img/accepting/overstock.png"></a>
-                    <a href="https://chunkhost.com/" target="_blank"><img src="assets/img/accepting/chunkhost.png"></a>
-                    <a href="https://www.namecheap.com/" target="_blank"><img src="assets/img/accepting/namecheap.png"></a>
-                    <a href="http://www.expedia.com/" target="_blank"><img src="assets/img/accepting/expedia.png"></a>
-                  </div>
+          <div class="col-md-10 col-md-offset-2">
+            <div class="content">
+              <h1>Companys accepting or working with Bitcoin</h1>
+              <div class="row">
+                <div class="col-md-9 col-sm-9 col-lg-12 bigboys">
+                  <a href="https://stripe.com/" target="_blank"><img src="assets/img/accepting/stripe.png"></a>
+                  <a href="https://www.paypal.com/" target="_blank"><img src="assets/img/accepting/paypal.png"></a>
+                  <a href="https://squareup.com/" target="_blank"><img src="assets/img/accepting/square.jpg"></a>
+                  <a href="https://www.shopify.com/" target="_blank"><img src="assets/img/accepting/shopify.png"></a>
+                  <a href="http://www.overstock.com/" target="_blank"><img src="assets/img/accepting/overstock.png"></a>
+                  <a href="https://chunkhost.com/" target="_blank"><img src="assets/img/accepting/chunkhost.png"></a>
+                  <a href="https://www.namecheap.com/" target="_blank"><img src="assets/img/accepting/namecheap.png"></a>
+                  <a href="http://www.expedia.com/" target="_blank"><img src="assets/img/accepting/expedia.png"></a>
                 </div>
               </div>
             </div>
-            <a class="scrolldown scroll btn-scroll" href="#grid"><span class="fa fa-arrow-down"></span></a>
+          </div>
+          <a class="scrolldown scroll btn-scroll" href="#grid"><span class="fa fa-arrow-down"></span></a>
           
         </div>
       </section>

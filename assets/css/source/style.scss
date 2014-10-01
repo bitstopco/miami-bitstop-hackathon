@@ -964,7 +964,7 @@ a.btn-scroll:hover span {
   margin: 0 auto;
   display: block;
   margin-top: 30px;
-  margin-left: 68px;
+  margin-left: 55px;
 }
 #countdown_container h2 {
   text-align:center;
@@ -1076,6 +1076,50 @@ Markup to keep a decent layout under IE8 and below
 }
 #countdown_container h1 {
   *margin:0 auto;
+}
+
+/* iPhone 5 in portrait */
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : portrait) {
+
+  #intro {
+
+    .container {
+
+      .lo-de-ariva {
+        margin-top: 79px!important;
+      }
+
+      div {
+
+        h1 {
+          font-size: 35px;
+          margin-bottom: 12px;
+        }
+      }
+
+      #countdown_container {
+        display: none;
+      }
+
+      .el_dia {
+        margin: 24px 0px 0px 0px!important;
+
+        h2 {
+          font-size: 19px !important;
+        }
+      }
+    }
+  }
+
+  #textcontent {
+
+    .means {
+      ul:last-child {
+        margin: 0px 0px 0px 21px;
+      }
+    }
+  }
+
 }
 
 
@@ -1221,3 +1265,4 @@ Markup to keep a decent layout under IE8 and below
   }
 
 }
+

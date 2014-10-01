@@ -62,7 +62,7 @@
       <section id="intro" class="slidepage">
         <div class="container">
           
-            <div class="col-md-10 col-md-offset-1 vertical-center">
+            <div class="col-md-10 col-md-offset-1 vertical-center lo-de-ariva">
 
               <div class="text-center animated bounceInDown">
                 <h2>Bitcoin will change the way we use money forever</h2>

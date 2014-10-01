@@ -100,8 +100,8 @@
                 <div class="special-element"><span></span></div>
                 <h1>Why Bitcoin?</h1>
                 <div class="row">
-                  <div class="col-md-3 col-sm-3 col-lg-2">
-                    <span class="big-icon fa fa-bitcoin"></span>
+                  <div class="col-md-1 col-sm-1 col-xs-3">
+                    <span class="small-icon fa fa-bitcoin"></span>
                   </div>
                   <div class="col-md-9 col-sm-9 col-lg-10">
                     <p>
@@ -112,8 +112,8 @@
 
                 <h2>Why Miami?</h2>
                 <div class="row">
-                  <div class="col-md-3 col-sm-3 col-lg-2">
-                    <span class="big-icon fa fa-globe"></span>
+                  <div class="col-md-1 col-sm-1 col-xs-3">
+                    <span class="small-icon fa fa-globe"></span>
                   </div>
                   <div class="col-md-9 col-sm-9 col-lg-10">
                     <p>
@@ -124,8 +124,8 @@
 
                 <h2>What does this mean for developers?</h2>
                 <div class="row">
-                  <div class="col-md-3 col-sm-3 col-lg-2">
-                    <span class="big-icon fa fa-flask"></span>
+                  <div class="col-md-1 col-sm-1 col-xs-3">
+                    <span class="small-icon fa fa-flask"></span>
                   </div>
                   <div class="col-md-9 col-sm-9 col-lg-10">
                     <p>
@@ -237,8 +237,8 @@
                 <div class="special-element"><span></span></div>
                 <h1>Prizes</h1>
                 <div class="row">
-                  <div class="col-md-3 col-sm-3 col-lg-2">
-                    <span class="big-icon fa fa-desktop"></span>
+                  <div class="col-md-1 col-sm-1 col-xs-3">
+                    <span class="small-icon fa fa-desktop"></span>
                   </div>
                   <div class="col-md-9 col-sm-9 col-lg-10">
                     <p>

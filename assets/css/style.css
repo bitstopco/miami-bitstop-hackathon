@@ -248,6 +248,9 @@ a.btn-scroll:hover span {
   padding: 10px 10px;
   font-size: 20px;
   background: #2d3132;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
 }
 
 @media (max-width: 767px) {
@@ -878,6 +881,9 @@ a.btn-scroll:hover span {
   bottom: 0;
   left: 50%;
   margin-left: -20px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
 }
 
 /* Modal */

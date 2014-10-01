@@ -984,7 +984,7 @@ a.btn-scroll:hover span {
   margin: 0 auto;
   display: block;
   margin-top: 30px;
-  margin-left: 55px;
+  margin-left: 45px;
 }
 
 #countdown_container h2 {
@@ -1130,6 +1130,11 @@ Markup to keep a decent layout under IE8 and below
 
   #textcontent .means ul:last-child {
     margin: 0px 0px 0px 21px;
+  }
+}
+@media (min-width: 1200px) {
+  #intro .container .lo-de-ariva {
+    padding-left: 56px;
   }
 }
 @media screen and (min-width: 985px) {

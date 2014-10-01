@@ -964,7 +964,7 @@ a.btn-scroll:hover span {
   margin: 0 auto;
   display: block;
   margin-top: 30px;
-  margin-left: 55px;
+  margin-left: 45px;
 }
 #countdown_container h2 {
   text-align:center;
@@ -1120,6 +1120,19 @@ Markup to keep a decent layout under IE8 and below
     }
   }
 
+}
+
+@media (min-width: 1200px) {
+  
+  #intro {
+
+    .container {
+
+      .lo-de-ariva {
+        padding-left: 56px;
+      }
+    }
+  }
 }
 
 

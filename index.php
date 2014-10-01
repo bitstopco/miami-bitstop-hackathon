@@ -59,7 +59,7 @@
         </div>
       </section>
 
-      <section id="intro" class="slidepage">
+      <section id="intro" class="slidepage el-intro">
         <div class="container">
           
             <div class="col-md-10 col-md-offset-1 vertical-center lo-de-ariva">
@@ -87,7 +87,7 @@
               </div>
 
             </div>
-            <a class="scrolldown scroll btn-scroll" href="#textcontent"><span class="fa fa-arrow-down"></span></a>
+            <a class="scrolldown scroll btn-scroll" href="#bitcoin"><span class="fa fa-arrow-down"></span></a>
           
         </div>
       </section>
@@ -174,7 +174,7 @@
               -->
               </div>
             </div>
-            <a class="scrolldown scroll btn-scroll" href="#grid"><span class="fa fa-arrow-down"></span></a>
+            <a class="scrolldown scroll btn-scroll" href="#facts"><span class="fa fa-arrow-down"></span></a>
           
         </div>
       </section>
@@ -224,7 +224,7 @@
               </div>
             </div>
           
-          <a class="scrolldown scroll btn-scroll" href="#carousel"><span class="fa fa-arrow-down"></span></a>
+          <a class="scrolldown scroll btn-scroll" href="#prizes"><span class="fa fa-arrow-down"></span></a>
 
         </div>
       </section>
@@ -258,7 +258,7 @@
               -->
               </div>
             </div>
-            <a class="scrolldown scroll btn-scroll" href="#grid"><span class="fa fa-arrow-down"></span></a>
+            <a class="scrolldown scroll btn-scroll" href="#resources"><span class="fa fa-arrow-down"></span></a>
           
         </div>
       </section>
@@ -320,7 +320,7 @@
 
             </div>
           </div>
-          <a class="scrolldown scroll btn-scroll" href="#grid"><span class="fa fa-arrow-down"></span></a>
+          <a class="scrolldown scroll btn-scroll" href="#bigboys"><span class="fa fa-arrow-down"></span></a>
           
         </div>
       </section>
@@ -345,7 +345,7 @@
               </div>
             </div>
           </div>
-          <a class="scrolldown scroll btn-scroll" href="#grid"><span class="fa fa-arrow-down"></span></a>
+          <a class="scrolldown scroll btn-scroll" href="#sponsors"><span class="fa fa-arrow-down"></span></a>
           
         </div>
       </section>
@@ -416,7 +416,7 @@
               </div>
             </div>
 
-            <a class="scrolldown scroll btn-scroll" href="#intro"><span class="fa fa-arrow-up"></span></a>
+            <a class="scrolldown scroll btn-scroll" href="#el-intro"><span class="fa fa-arrow-up"></span></a>
           
         </div>
       </section>

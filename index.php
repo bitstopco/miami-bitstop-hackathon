@@ -129,7 +129,7 @@
                   </div>
                   <div class="col-md-9 col-sm-9 col-lg-10">
                     <p>
-                      Bitcoin provides a great oppurtunity for developers. Like the internet Bitcoin is an open protocol. This means you can build awesome apps that leverege the protocol and allow you to do things never done before. Great hackers all over the world are using Bitcoin to build great software. VC funding is measured to set a record year 2014 with over 350 Million invested in Bitcoin stasrtups.  Bitcoin startups are hiring and understabnding block chain centered protocols such as Bitcoin will be in demand. Check out some examples below:       
+                      Bitcoin provides a great oppurtunity for developers. Like the internet Bitcoin is an open protocol. This means you can build awesome apps that leverege the protocol and allow you to do things never done before. Great hackers all over the world are using Bitcoin to build great software. VC funding is measured to set a record year 2014 with over 350 Million invested in Bitcoin startups. Bitcoin startups are hiring and understanding block chain centered protocols such as Bitcoin will be in demand. Check out some examples below:       
                     </p>
 
                     <div class="means">
@@ -200,7 +200,7 @@
                   </div>
                   <div class="col-md-4 col-sm-5 col-xs-9">
                     <h4>Open Source</h4>
-                    <p>The protcol is open soursce so you know the rules.  The system is transparent and does not require to to trust other user.  Trust is baked into Bitcoin making it trustless for you. </p>
+                    <p>The protocol is open source so you know the rules. The system is transparent and does not require you to trust other user. Trust is baked into Bitcoin making it trustworthy for you. </p>
                   </div>
                 </div>
 
@@ -217,7 +217,7 @@
                   </div>
                   <div class="col-md-4 col-sm-5 col-xs-9">
                     <h4>For the poeple by the people</h4>
-                    <p>Bitcoin is peer to peer. That means no middle men if you dont need them.  Just like us, there are people all over the world hacking away at the future of payments.</p>
+                    <p>Bitcoin is peer to peer. That means no middle men if you dont need them. Just like us, there are people all over the world hacking away at the future of payments.</p>
                   </div>
                 </div>
 

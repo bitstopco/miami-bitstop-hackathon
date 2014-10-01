@@ -105,7 +105,7 @@
                   </div>
                   <div class="col-md-9 col-sm-9 col-lg-10">
                     <p>
-                    Bitcoin has changed the way we transfer value forever.  It is an open system that allows for innovation without permission.  The code is open sourse and avialable to anyone anywhere to run and review.  The technology is extremly powerful and allows coders like yourself to build some amazing things.  We really feel that Bitcoin can be a tool to empower people around the World. It can also make storing value and transfering it online extremly frictionless. The system doesnt care about the users creed,color,race or status anyone can use it.  Plus who likes banks?     
+                    Bitcoin has changed the way we transfer value forever. It is an open system that allows for innovation without permission. The code is open source and avialable to anyone anywhere to run and review. The technology is extremly powerful and allows coders like yourself to build some amazing things. We really feel that Bitcoin can be a tool to empower people around the world. It can also make storing value and transfering it online extremly frictionless. The system doesnt care about the users creed, color, race or status anyone can use it. Plus who likes banks?     
                     </p>
                   </div>
                 </div>
@@ -117,7 +117,7 @@
                   </div>
                   <div class="col-md-9 col-sm-9 col-lg-10">
                     <p>
-                      We chose Miami because its geographical location makes it a gateway to the rest of the World.  Bitcoin is the currency and network of the World.  Not only are there poeple in Miami that can greatly benfit from Bitcoin but poeple from all over the world constantly travel here for both business and pleasure.  
+                      We chose Miami because its geographical location makes it a gateway to the rest of the world. Bitcoin is the currency and network of the world. Not only are there poeple in Miami that can greatly benfit from Bitcoin, but poeple from all over the world constantly travel here for both business and pleasure.  
                     </p>
                   </div>
                 </div>
@@ -129,7 +129,7 @@
                   </div>
                   <div class="col-md-9 col-sm-9 col-lg-10">
                     <p>
-                      Bitcoin provides a great oppurtunity for developers.  Like the internet Bitcoin is an open protocol. This means you can build awesome apps that leverege the protocol and allow you to do things never done before.  Great hackers all over the world are using Bitcoin to build great software. VC funding is measured to set a record year 2014 with over 350 Million invested in Bitcoin stasrtups.  Bitcoin startups are hiring and understabnding block chain centered protocols such as Bitcoin will be in demand.   Check out some examples below:       
+                      Bitcoin provides a great oppurtunity for developers. Like the internet Bitcoin is an open protocol. This means you can build awesome apps that leverege the protocol and allow you to do things never done before. Great hackers all over the world are using Bitcoin to build great software. VC funding is measured to set a record year 2014 with over 350 Million invested in Bitcoin stasrtups.  Bitcoin startups are hiring and understabnding block chain centered protocols such as Bitcoin will be in demand. Check out some examples below:       
                     </p>
 
                     <div class="means">
